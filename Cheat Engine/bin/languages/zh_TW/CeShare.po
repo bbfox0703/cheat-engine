@@ -1,0 +1,384 @@
+#: frmCEShareCheatBrowser.TTrainerForm.Caption
+msgid "Cheat Browser"
+msgstr "作弊程式瀏覽器"
+
+#: frmCEShareCheatBrowser.CELabel.Caption
+msgid "Processname:"
+msgstr "程序名稱："
+
+#: frmCEShareCheatBrowser.Title.Caption
+msgid "Title"
+msgstr "標題"
+
+#: frmCEShareCheatBrowser.Author.Caption
+msgid "Author"
+msgstr "作者"
+
+#: frmCEShareCheatBrowser.Public.Caption
+msgid "Public"
+msgstr "公開"
+
+#: frmCEShareCheatBrowser.Score.Caption
+msgid "Score"
+msgstr "分數"
+
+#: frmCEShareCheatBrowser.Version.Caption
+msgid "Version independent"
+msgstr "版本獨立"
+
+#: frmCEShareCheatBrowser.Match.Caption
+msgid "% Match"
+msgstr "% 匹配"
+
+#: frmCEShareCheatBrowser.Signed.Caption
+msgid "Signed"
+msgstr "已簽名"
+
+#: frmCEShareCheatBrowser.btnLoadTable.Caption
+msgid "    Load    "
+msgstr "    載入    "
+
+#: frmCEShareCheatBrowser.btnAddViewComments.Caption
+msgid "Add/View Comments"
+msgstr "新增/查看評論"
+
+#: frmCEShareCheatBrowser.lblRate.Caption
+msgid "Rate:"
+msgstr "評價："
+
+#: frmCEShareCheatBrowser.btnViewHistory.Caption
+msgid "View History"
+msgstr "查看歷史記錄"
+
+#: frmCEShareCheatBrowser.lblContact.Hint
+msgid "For contacting the table owner or site admin"
+msgstr "聯絡表格擁有者或網站管理員"
+
+#: frmCEShareCheatBrowser.lblContact.Caption
+msgid "Contact"
+msgstr "聯絡"
+
+#: frmCEShareCheatBrowser.miLoad.Caption
+msgid "Load Table"
+msgstr "載入表格"
+
+#: frmCEShareCheatBrowser.miViewComments.Caption
+msgid "View Comments"
+msgstr "查看評論"
+
+#: frmCEShareCheatBrowser.miLoginToSeeMoreOptions.Caption
+msgid "Login to see more options"
+msgstr "登入以查看更多選項"
+
+#: frmCEShareCheatBrowser.miUpdateTable.Caption frmCEShareUpdateOrNew_1.btnChoose.Caption
+msgid "Update table"
+msgstr "更新表格"
+
+#: frmCEShareCheatBrowser.miDeleteTable.Caption
+msgid "Delete table"
+msgstr "刪除表格"
+
+#: frmCEShareCheatBrowser.miManageAccessList.Caption
+msgid "Manage accesslist"
+msgstr "管理存取列表"
+
+#: ceshare_frmComments.lblPrevious25.Caption
+msgid "Previous 25"
+msgstr "前25個"
+
+#: ceshare_frmComments.lblNext25.Caption
+msgid "Next 25"
+msgstr "後25個"
+
+#: ceshare_frmComments.btnSend.Caption
+msgid "   Send   "
+msgstr "   送出   "
+
+#: ceshare_initiaISetup.Caption
+msgid "CEShare Initial Setup"
+msgstr "CEShare初始設置"
+
+#: ceshare_initiaISetup.CELabel1.Caption
+msgid "CEShare community URL:"
+msgstr "CEShare社群網址："
+
+#: ceshare_initiaISetup.CELabel2.Caption
+msgid "By entering a CEShare URL you will be able to upload and download Cheat Tables from a ceshare server community"
+msgstr "輸入CEShare網址後，您將能夠從ceshare伺服器社區上傳和下載作弊表"
+
+#: ceshare_initiaISetup.CELabel3.Caption
+msgid ""
+"Disclaimer: These are third-party servers. They are not owned or maintained by the Cheat Engine project, and no warranty or responsiblity regarding their content is given. \n"
+"\n"
+"Please contact the respective server owner for further inquiries."
+msgstr ""
+"免責聲明：這些是第三方伺服器。它們不屬於也不由Cheat Engine專案所擁有或維護，對其內容不提供任何保證或責任。\n"
+"\n"
+"如需進一步查詢，請聯絡相對應的伺服器擁有者。"
+
+#: ceshare_initiaISetup.CELabel4.Caption
+msgid "Click cancel or leave empty if you don't wish to use this"
+msgstr "如果您不希望使用此功能，請點擊取消或保留空白"
+
+#: ceshare_initiaISetup.CEButton1.Caption
+msgid "OK"
+msgstr "確定"
+
+#: ceshare_initiaISetup.CEButton2.Caption
+msgid "Cancel"
+msgstr "取消"
+
+#: frmCESharePublishCheat.Caption
+msgid "Publish New Cheat"
+msgstr "發佈新作弊表"
+
+#: frmCESharePublishCheat.lblTitle.Caption
+msgid "Title:"
+msgstr "標題："
+
+#: frmCESharePublishCheat.lblHeaderMD5Text.Caption
+msgid "Header MD5:"
+msgstr "標頭MD5："
+
+#: frmCESharePublishCheat.cbNeedsFullFilrHash.Caption
+msgid "Needs full file hash"
+msgstr "需要完整文件雜湊值"
+
+#: frmCESharePublishCheat.lblFullHeaderMD5Text.Caption
+msgid "Full file hash:"
+msgstr "完整文件雜湊值："
+
+#: frmCESharePublishCheat.cbUseSecondaryModule.Caption
+msgid "Needs secondary modulecheck"
+msgstr "需要次要的模組檢查"
+
+#: frmCESharePublishCheat.lblModulename.Caption
+msgid "Modulename"
+msgstr "模組名稱"
+
+#: frmCESharePublishCheat.lblURL.Caption
+msgid "URL (Optional)"
+msgstr "網址（可選）"
+
+#: frmCESharePublishCheat.cbPublic.Caption
+msgid "Allow everyone to edit this table"
+msgstr "允許所有人編輯此表"
+
+#: frmCESharePublishCheat.cbPublic.Hint
+msgid ""
+"When this is enabled will let EVERYONE be able to edit/replace your table. So be careful with enabling this and understand that once someone else has modified the table, you "
+"will not be able to delete it anymore"
+msgstr ""
+"啟用此功能後，將允許任何人編輯/替換您的表格。因此，在啟用此功能時請小心，並理解一旦有人修改了表格後，"
+"您將無法再刪除它"
+
+#: frmCESharePublishCheat.btnPublish.Caption
+msgid "Publish"
+msgstr "發佈"
+
+#: frmCEShareUpdateOrNew_1.Caption
+msgid "Update/publish"
+msgstr "更新/發佈"
+
+#: frmCEShareUpdateOrNew_1.rbPublish.Caption
+msgid "Publish new table"
+msgstr "發佈新表"
+
+#: ceshare_permissions.Caption
+msgid "Update Permissions"
+msgstr "更新權限"
+
+#: ceshare_permissions.lblOwnerTxt.Caption
+msgid "Owner"
+msgstr "擁有者"
+
+#: ceshare_permissions.mrOK.Caption
+msgid "  OK  "
+msgstr "  確定  "
+
+#: ceshare_permissions.btnAddUser.Caption
+msgid "Add user"
+msgstr "新增用戶"
+
+#: miCheckForCheats.Caption
+msgid "Check for mods/cheats for current process"
+msgstr "檢查目前程序的模組/作弊表"
+
+#: miRequestCheats.Caption
+msgid "Request and check other requests for mods/cheats for current process"
+msgstr "請求並檢查目前程序的模組/作弊表之其他請求"
+
+#: miLoginToSeeMoreOptions.Caption
+msgid "Publish/Update table"
+msgstr "發布/更新表格"
+
+#: miViewAllTables.Caption
+msgid "View all available tables"
+msgstr "查看所有可用的表格"
+
+#: lblCEShareLabel.Caption
+msgid "CEShare community URL"
+msgstr "CEShare社群網址"
+
+#: d.Caption
+msgid "Secondary identifier code"
+msgstr "次要識別碼"
+
+#: btnAllow.Caption
+msgid "Allow"
+msgstr "允許"
+
+#: header.caption
+msgid ""
+"This process needs a special identifier to set it apart from others with the same name. To generate this identifier the below code is needed. Do you agree with the execution "
+"of this code to generate the identifier?"
+msgstr ""
+"此程序需要一個特殊的識別碼來將其與同名的其他程序區分開來。要生成此識別碼需要下面的程式碼。您同意執行此程式碼以生成識別碼嗎？"
+
+#: Error
+msgid "Error:"
+msgstr "錯誤："
+
+#: IRFS
+msgid "Invalid reply from server:"
+msgstr "伺服器的回應無效："
+
+#: SDNR
+msgid "Server did not respond"
+msgstr "伺服器未響應"
+
+#: ceshare_account-f.Caption
+msgid "CEShare Login"
+msgstr "CEShare登錄"
+
+#: ceshare_account-lblUsername.Caption
+msgid "Username"
+msgstr "用戶名稱"
+
+#: ceshare_account-lblPassword.Caption
+msgid "Password"
+msgstr "密碼"
+
+#: ceshare_account-lblRegister.Caption
+msgid "Register"
+msgstr "註冊"
+
+#: ceshare_account-cbLogoutWhenLoadingTables.Caption
+msgid "Logout when loading ceshare tables"
+msgstr "在載入ceshare表格時登出"
+
+#: ceshare_account-cbLogoutWhenLoadingTables.Hint
+msgid "When checked you will get logged out when loading a ceshare table. This to prevent malicious tables from using your account"
+msgstr "勾選此選項時，當載入ceshare表格時將自動登出。這樣可以防止惡意表格使用您的帳戶"
+
+#: ceshare_permissions
+msgid "Are you sure you wish to change the owner?"
+msgstr "您確定要更改擁有者嗎？"
+
+#: ceshare_permissions1
+msgid "Access has been updated"
+msgstr "存取權限已更新"
+
+#: ceshare_publish
+msgid "Are you sure you wish to delete this table?"
+msgstr "您確定要刪除這個表格嗎？"
+
+#: ceshare_publish
+msgid "Table successfully deleted"
+msgstr "表格已成功刪除"
+
+#: ceshare_publish
+msgid "processname is empty"
+msgstr "程序名稱為空值"
+
+#: ceshare_publish
+msgid "title is empty"
+msgstr "標題為空值"
+
+#: ceshare_publish
+msgid "data is empty"
+msgstr "數據為空值"
+
+#: ceshare_publish
+msgid "description is empty"
+msgstr "描述為空值"
+
+#: ceshare_publish
+msgid "Thank you, your table has been published"
+msgstr "謝謝，您的表格已發布"
+
+#: ceshare_publish
+msgid "No id given"
+msgstr "未提供ID"
+
+#: ceshare_publish
+msgid "Thank you, your table has been updated"
+msgstr "謝謝，您的表格已更新"
+
+#: ceshare_publish
+msgid "Please select a cheat table to update"
+msgstr "請選擇一個作弊表進行更新"
+
+#: ceshare_publish
+msgid "Invalid background update query list"
+msgstr "無效的背景更新查詢列表"
+
+#: ceshare_publish_TLAN
+msgid "This looks like an empty table. Are you sure?"
+msgstr "這看起來像是一個空表格。您確定嗎？"
+
+#: ceshare_publish
+msgid "Are you sure you wish to let 'Everyone' overwrite your table in the ceshare system?"
+msgstr "您確定要讓「所有人」在ceshare系統中覆寫您的表格嗎？"
+
+#: ceshare_publish
+msgid "Do you wish to sign this table?"
+msgstr "您希望簽署這個表格嗎？"
+
+#: ceshare_querycheats
+msgid "Contact who?"
+msgstr "聯絡誰？"
+
+#: ceshare_querycheats
+msgid "Site Admin"
+msgstr "網站管理員"
+
+#: ceshare_querycheats
+msgid "Table Owner"
+msgstr "表格擁有者"
+
+#: ceshare_querycheats
+msgid "Sorry, but there are currently no tables for this target. Perhaps you can be the first"
+msgstr "抱歉，目前這個目標沒有任何表格。也許您可以成為第一人"
+
+#: ceshare_requests
+msgid "Requests"
+msgstr "請求"
+
+#: ceshare_requests
+msgid "Score="
+msgstr "分數="
+
+#: ceshare_fulltablelist
+msgid "  and %d more tables..."
+msgstr "  以及其他%d個表格..."
+
+#: ceshare_fulltablelist
+msgid "All tables"
+msgstr "所有表格"
+
+#: ceshare_fulltablelist
+msgid "Search:"
+msgstr "搜尋："
+
+#: ceshare_fulltablelist
+msgid "Previous (25)"
+msgstr "前25個"
+
+#: ceshare_fulltablelist
+msgid "Next (25)"
+msgstr "後25個"
+
+#: ceshare_querycheats_TCTI
+msgid "The current table is trying to load obfuscated code. This often means malicious intent as tables are supposed to be public. Do you wish to execute this lua code anyhow?"
+msgstr "目前表格試圖加載混淆代碼。這通常意味其有著惡意意圖，因為表格應該是公開的。無論如何您還希望執行這個lua程式碼嗎？"
