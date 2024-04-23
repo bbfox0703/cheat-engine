@@ -1,0 +1,69 @@
+#: dotnetinfo-LtNi dotnetinfo-LtNi2
+msgid "Launch the .NET interface"
+msgstr "啟動 .Net 介面"
+
+#: dotnetinfo-Fctm
+msgid "Failure compiling the method"
+msgstr "方法 (Method) 編譯失敗"
+
+#: dotnetinfo-Fgma
+msgid "Failure getting method address"
+msgstr "取得方法 (Method) 位址失敗"
+
+#: dotnetinfo-Fgmfmn
+msgid "Failure getting methodid for module named "
+msgstr "取得方法ID (methodid)失敗、於模組 "
+
+#: dotnetinfo-Tmicnj
+msgid ""
+"This method is currently not jitted. Do you wish to inject the .NET Control "
+"DLL into the target process to force it to generate an entry point for this "
+"method? (Does not work if the target is suspended)"
+msgstr ""
+"這個方法 (method) 目前並還沒有產生即時資訊，您希望注入.Net的控制"
+"DLL檔案到目標的程序中，以便強制它立即產生此方法的即時資訊嗎？"
+"(如果程序在暫停狀態，此方式是無效的Does not work if the target is suspended)"
+
+#: dotnetinfo-Address
+msgid "Address"
+msgstr "位址"
+
+#: dotnetinfo-Offset
+msgid "Offset"
+msgstr "位移"
+
+#: dotnetinfo-EUs
+msgid "<Error: Unreadable string>"
+msgstr "<錯誤：無法讀取的字串>"
+
+#: dotnetinfo-Scnbw
+msgid "Strings can not be written"
+msgstr "無法覆寫此字串"
+
+#: dotnetinfo-Uft
+msgid "Unsupported field type"
+msgstr "未支援的欄位 (field) 類別"
+
+#: dotnetinfo-vcf
+msgid "value convertor failure"
+msgstr "數值轉換失敗"
+
+#: dotnetinfo-ItNCD
+msgid "Inject the .NET Control DLL into the target process?"
+msgstr "要將 .Net 的控制DLL注入到目標的程序中嗎?"
+
+#: dotnetinfo-Cvo
+msgid "Change value of "
+msgstr "變更該數值："
+
+#: dotnetinfo-TcsttN
+msgid ""
+"To change string types the .NET Control DLL needs to be injected into the "
+"target. Inject it?"
+msgstr ""
+"如果要變更字串的類別，必需要將 .Net 的控制DLL注入到目標的程序中，"
+"要執行注入嗎?"
+
+#: dotnetinfo-NNif
+msgid "No .NET info found"
+msgstr "找不到 .Net 資訊"
