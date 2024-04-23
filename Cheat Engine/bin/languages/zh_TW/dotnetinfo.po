@@ -20,7 +20,7 @@ msgid ""
 "DLL into the target process to force it to generate an entry point for this "
 "method? (Does not work if the target is suspended)"
 msgstr ""
-"這個方法 (method) 目前並還沒有產生即時資訊，您希望注入.Net的控制"
+"這個方法 (method) 目前並還沒有產生即時編譯資訊，您希望注入.Net的控制"
 "DLL檔案到目標的程序中，以便強制它立即產生此方法的即時資訊嗎？"
 "(如果程序在暫停狀態，此方式是無效的Does not work if the target is suspended)"
 

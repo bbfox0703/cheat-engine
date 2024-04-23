@@ -18,11 +18,11 @@ msgstr "請先開啟處理程序"
 
 #: SS-CESF
 msgid "Cheat Engine Scan files"
-msgstr "Cheat Engine 掃描檔"
+msgstr "Cheat Engine 掃描檔案"
 
 #: SS-OaPFDaS
 msgid "Open a process first and do a scan"
-msgstr "請先開啟處理程序再執行掃描"
+msgstr "請先開啟處理程序後、再執行掃描"
 
 #: SS-SSS
 msgid "Save scan session"

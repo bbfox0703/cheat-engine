@@ -18,7 +18,7 @@ msgstr "插入 MonoDatacollector dll 失敗"
 
 #: monoscript-DYWTL
 msgid "Do you wish to let the mono extention figure out the name and start address? If it's not a proper object this may crash the target."
-msgstr "您要讓 Mono 擴充功能自行尋找名稱並啟動位址嗎？如果物件不正確，可能會導致目標崩潰。"
+msgstr "您要讓 Mono 擴充功能自行尋找名稱並啟動位址嗎？如果物件不正確，可能會導致目標程序異常中止。"
 
 #: monoscript-IO
 msgid "Instances of "
@@ -26,7 +26,7 @@ msgstr "...的執行個體 "
 
 #: monoscript-WTAJG
 msgid "Warning: These are just guesses. Validate them yourself"
-msgstr "警告：這些只是猜測，請自行驗證"
+msgstr "警告：這些只是猜測，請您自行驗證"
 
 #: monoscript-AN
 msgid "address==nil"
@@ -62,11 +62,11 @@ msgstr "參數 "
 
 #: monoscript-INAVA
 msgid " is not a valid address"
-msgstr " 不是有效的位址"
+msgstr " 並不是有效的位址"
 
 #: monoscript-INAVV
 msgid "is not a valid value"
-msgstr "不是有效的數值"
+msgstr "並不是有效的數值"
 
 #: monoscript-IFT
 msgid "ILCode from %x to %x"
@@ -78,7 +78,7 @@ msgstr "偏移 %x"
 
 #: monoscript-Resolve
 msgid "Resolve "
-msgstr "解決 "
+msgstr "解析 "
 
 #: monoscript-XSTS
 msgid "%x : %s (type: %s)"
@@ -130,11 +130,11 @@ msgstr " 無法進行即時編譯"
 
 #: monoscript-STFDNWY
 msgid "Sorry this feature does not work yet.  getStructureCount needs patching first."
-msgstr "抱歉，此功能還無法運作。 必須先修補 getStructureCount。"
+msgstr "抱歉，此功能還無法運作。必須先修補 getStructureCount。"
 
 #: monoscript-Removing
 msgid "Removing "
-msgstr "移除中 "
+msgstr "正在移除 "
 
 #: monoscript-RS
 msgid "Reloading Structure "
@@ -146,4 +146,4 @@ msgstr "類別 "
 
 #: monoscript-HNF
 msgid " has no fields"
-msgstr " 沒有欄位"
+msgstr " 並沒有欄位"
