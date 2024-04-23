@@ -1,0 +1,7 @@
+#: dotnetinterface-Injecte
+msgid "Inject error : "
+msgstr "注入失敗："
+
+#: dotnetinterface-Unknown
+msgid "Unknown"
+msgstr "未知"

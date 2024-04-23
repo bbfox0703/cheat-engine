@@ -1,0 +1,39 @@
+#: autosave-AioC
+msgid "Another instance of Cheat Engine has crashed and it created an autosave.  Autosave disabled until you go to settings and click ok"
+msgstr "另外一個Cheat Engine的程序異常中止、且已經建立了自動存檔。自動存檔功能將停用、直到您在設定中點擊確認 (OK) 為止。"
+
+#: autosave-Ftoa
+msgid "Failure to obtain a location to save the autosave data"
+msgstr "無法取得自動存檔資料的路徑來儲存資料"
+
+#: autosave-UR
+msgid "Unknown Reason"
+msgstr "未知的原因"
+
+#: autosave-Ftat
+msgid "Failure to autosave table : "
+msgstr "自動存檔失敗："
+
+#: autosave-Ftas
+msgid "Failure to autosave state : "
+msgstr "自動儲存狀態失敗："
+
+#: autosave-Ftla
+msgid "Failure to load autosave at %s  . Error: %s"
+msgstr "無法於 %s 載入自動存檔；錯誤為：%s"
+
+#: autosave-Tssb
+msgid "The saved state belongs to a different autosave version that is not currently implemented"
+msgstr "保存的狀態資料是由不同的自動存檔版本所產生、且目前的版本並尚未實作此功能"
+
+#: autosave-ASI
+msgid "Auto Save Interval (In seconds. 0 is disabled)"
+msgstr "設定自動存檔間隔 (以秒為單位、0表示停用)"
+
+#: autosave-AS
+msgid "Auto Save"
+msgstr "自動存檔"
+
+#: autosave-CEdn
+msgid "Cheat Engine did not properly close last time. Do you wish to restore your work?"
+msgstr "Cheat Engine並沒有正常的結束，您想要還原您上次的作業嗎?"

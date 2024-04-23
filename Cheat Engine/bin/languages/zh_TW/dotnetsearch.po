@@ -1,0 +1,23 @@
+#: dotnetsearch-FindC
+msgid "Find Class"
+msgstr "搜尋類別 (Class)"
+
+#: dotnetsearch-Ltci
+msgid "Limit to current image"
+msgstr "只限於目前的影像 (image)"
+
+#: dotnetsearch-FindF
+msgid "Find Field"
+msgstr "搜尋欄位 (Field)"
+
+#: dotnetsearch-Ltcc
+msgid "Limit to current class"
+msgstr "只限於目前的類別 (Class)"
+
+#: dotnetsearch-FM
+msgid "Find Method"
+msgstr "搜尋方法 (Method)"
+
+#: dotnetsearch-sear
+msgid "Search"
+msgstr "搜尋"
