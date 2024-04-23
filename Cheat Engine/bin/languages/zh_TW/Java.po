@@ -34,7 +34,7 @@ msgstr "Java：正在終止事件處理常式"
 
 #: java-IJS
 msgid "Invalid java signature"
-msgstr ""
+msgstr "不正確的Java簽名"
 
 #: java-ARTANS
 msgid "Array return types are not supported"
@@ -74,7 +74,7 @@ msgstr "結果"
 
 #: java-OWWTJAILAS
 msgid "java_find_what_writes only works when the jvmti agent is launched at start"
-msgstr ""
+msgstr "java_find_what_writes 只在 jvmti agent 於啟動時就執行才有作用"
 
 #: java-Generic
 msgid "  Generic="
@@ -170,11 +170,11 @@ msgstr "Java 處理常式初始化失敗"
 
 #: java-SJMIEITTP
 msgid "Show java menu item even if the target process hasn't loaded jvm.dll (Used for the local setEnvironment option)"
-msgstr ""
+msgstr "即使目標程序尚未載入jvm.dll (用於本地setEnvironment選項) ，也要顯示Java選單選項"
 
 #: javaclass-ICPTE
 msgid "Invalid constant pool tag encountered: "
-msgstr ""
+msgstr "遇到無效的常量池 (constant pool) 標籤："
 
 #: javaclass-Tag
 msgid " (tag="
@@ -190,7 +190,7 @@ msgstr " 尚未實作"
 
 #: javaclasseditor-WCNBUW
 msgid "wide can not be used with "
-msgstr ""
+msgstr "wide 不能與此一起使用："
 
 #: javaclasseditor-IAOPPF
 msgid "Invalid amount of parameters provided for "
@@ -214,7 +214,7 @@ msgstr "未知的指令："
 
 #: javaclasseditor-YCORI
 msgid "You can only replace instructions on an instruction boundary"
-msgstr ""
+msgstr "你只能在指令邊界上替換指令"
 
 #: javaclasseditor-StartIndex
 msgid "si="
@@ -242,7 +242,7 @@ msgstr "定義新標籤"
 
 #: javaclasseditor-GALFL
 msgid "Give a labelname for line "
-msgstr ""
+msgstr "給此行一個標籤名稱"
 
 #: javaclasseditor-TIAALWTN
 msgid "There is already a label with this name"
@@ -295,3 +295,7 @@ msgstr "指令"
 #: javaclasseditor-DL
 msgid "Define label"
 msgstr "定義標籤"
+
+#: java-JI
+msgid "Java Info"
+msgstr "Java資訊"
