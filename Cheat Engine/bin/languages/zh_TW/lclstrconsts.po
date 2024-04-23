@@ -7,26 +7,26 @@ msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: \n"
-"Last-Translator: SiderealArt <nelson22768384@gmail.com>\n"
+"Last-Translator: \n"
 "Language-Team: \n"
 "Language: zh_TW\n"
 "X-Generator: Poedit 3.0\n"
 
 #: lclstrconsts.hhshelpbrowsernotexecutable
 msgid "Browser %s%s%s not executable."
-msgstr ""
+msgstr "瀏覽器 %s%s%s 並非可執行檔"
 
 #: lclstrconsts.hhshelpbrowsernotfound
 msgid "Browser %s%s%s not found."
-msgstr ""
+msgstr "找不到瀏覽器 %s%s%s"
 
 #: lclstrconsts.hhshelperrorwhileexecuting
 msgid "Error while executing %s%s%s:%s%s"
-msgstr ""
+msgstr "欲執行 %s%s%s:%s%s 時發生錯誤"
 
 #: lclstrconsts.hhshelpnohtmlbrowserfound
 msgid "Unable to find a HTML browser."
-msgstr ""
+msgstr "找不到可用的HTML瀏覽器"
 
 #: lclstrconsts.hhshelpnohtmlbrowserfoundpleasedefineoneinhelpconfigurehe
 msgid "No HTML Browser found.%sPlease define one in Environment -> Options -> Help -> Help Options"
@@ -248,11 +248,11 @@ msgstr ""
 #: lclstrconsts.lislclresourcesnotfound
 msgctxt "lclstrconsts.lislclresourcesnotfound"
 msgid "Resource %s not found"
-msgstr ""
+msgstr "找不到資源：%s"
 
 #: lclstrconsts.lisprogramfilenotfound
 msgid "program file not found %s"
-msgstr ""
+msgstr "找不到程式檔案%s"
 
 #: lclstrconsts.rs3ddkshadowcolorcaption
 msgid "3D Dark Shadow"
@@ -1208,7 +1208,7 @@ msgstr "未知的點陣圖格式。"
 
 #: lclstrconsts.rsunsupportedclipboardformat
 msgid "Unsupported clipboard format: %s"
-msgstr ""
+msgstr "未知的剪貼簿格式"
 
 #: lclstrconsts.rswarningunreleaseddcsdump
 msgid " WARNING: There are %d unreleased DCs, a detailed dump follows:"
@@ -1268,7 +1268,7 @@ msgstr ""
 
 #: lclstrconsts.sduplicatemenus
 msgid "Duplicate menus"
-msgstr ""
+msgstr "重複的選單"
 
 #: lclstrconsts.sinvalidactioncreation
 msgid "Invalid action creation"
@@ -1292,23 +1292,23 @@ msgstr ""
 
 #: lclstrconsts.sinvalidimagesize
 msgid "Invalid image size"
-msgstr ""
+msgstr "無效的圖形尺寸"
 
 #: lclstrconsts.sinvalidindex
 msgid "Invalid ImageList Index"
-msgstr ""
+msgstr "無效的ImageList索引值"
 
 #: lclstrconsts.smenuindexerror
 msgid "Menu index out of range"
-msgstr ""
+msgstr "選單的索引值超出範圍"
 
 #: lclstrconsts.smenuitemisnil
 msgid "MenuItem is nil"
-msgstr ""
+msgstr "MenuItem是空值"
 
 #: lclstrconsts.smenunotfound
 msgid "Sub-menu is not in menu"
-msgstr ""
+msgstr "次選單不在選單中"
 
 #: lclstrconsts.smkcalt
 msgid "Alt+"
@@ -1399,19 +1399,19 @@ msgstr ""
 
 #: lclstrconsts.snotimers
 msgid "No timers available"
-msgstr ""
+msgstr "沒有可用的計時器"
 
 #: lclstrconsts.sparexpected
 msgid "Wrong token type: %s expected"
-msgstr ""
+msgstr "無效的令牌 (token) 類別、預期為： %s"
 
 #: lclstrconsts.sparinvalidfloat
 msgid "Invalid floating point number: %s"
-msgstr ""
+msgstr "無效的浮點數數值： %s"
 
 #: lclstrconsts.sparinvalidinteger
 msgid "Invalid integer number: %s"
-msgstr ""
+msgstr "無效的整數數值： %s"
 
 #: lclstrconsts.sparlocinfo
 msgid " (at %d,%d, stream offset %.8x)"
@@ -1419,16 +1419,78 @@ msgstr ""
 
 #: lclstrconsts.sparunterminatedbinvalue
 msgid "Unterminated byte value"
-msgstr ""
+msgstr "未結束的位元數值"
 
 #: lclstrconsts.sparunterminatedstring
 msgid "Unterminated string"
-msgstr ""
+msgstr "未結束的字串"
 
 #: lclstrconsts.sparwrongtokensymbol
 msgid "Wrong token symbol: %s expected but %s found"
-msgstr ""
+msgstr "錯誤的令牌 (token) 符記：預期為 %s，但發現 %s"
 
 #: lclstrconsts.sparwrongtokentype
 msgid "Wrong token type: %s expected but %s found"
+msgstr "錯誤的令牌 (token) 類型：預期為 %s，但發現 %s"
+
+#: lclstrconsts.sshellctrlsbytes
+msgid "%s bytes"
+msgstr "%s 位元"
+
+#: lclstrconsts.sshellctrlsinvalidpath
+msgctxt "lclstrconsts.sshellctrlsinvalidpath"
+msgid ""
+"Invalid pathname:\n"
+"\"%s\""
 msgstr ""
+"路徑無效:\n"
+"\"%s\""
+
+#: lclstrconsts.sshellctrlsinvalidpathrelative
+msgid ""
+"Invalid relative pathname:\n"
+"\"%s\"\n"
+"in relation to rootpath:\n"
+"\"%s\"\n"
+msgstr ""
+"相對路徑無效：\n"
+"\"%s\"\n"
+"相對於根路徑：\n"
+"\"%s\""
+
+#: lclstrconsts.sshellctrlsinvalidroot
+msgctxt "lclstrconsts.sshellctrlsinvalidroot"
+msgid ""
+"Invalid pathname:\n"
+"\"%s\""
+msgstr ""
+"無效的路徑名稱：\n"
+"\"%s\""
+
+#: lclstrconsts.sshellctrlskb
+msgid "%s kB"
+msgstr ""
+
+#: lclstrconsts.sshellctrlsmb
+msgid "%s MB"
+msgstr ""
+
+#: lclstrconsts.sshellctrlsname
+msgid "Name"
+msgstr "名稱"
+
+#: lclstrconsts.sshellctrlsselecteditemdoesnotexists
+msgid ""
+"The selected item does not exist on disk:\n"
+"\"%s\"\n"
+msgstr ""
+"選則的項目並不存在於磁碟機中：\n"
+"\"%s\"\n"
+
+#: lclstrconsts.sshellctrlssize
+msgid "Size"
+msgstr "大小"
+
+#: lclstrconsts.sshellctrlstype
+msgid "Type"
+msgstr "種類"

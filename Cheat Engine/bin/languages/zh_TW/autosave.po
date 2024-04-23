@@ -36,4 +36,4 @@ msgstr "自動存檔"
 
 #: autosave-CEdn
 msgid "Cheat Engine did not properly close last time. Do you wish to restore your work?"
-msgstr "Cheat Engine並沒有正常的結束，您想要還原您上次的作業嗎?"
+msgstr "Cheat Engine並沒有正常的結束，您想要還原上次的作業嗎?"
