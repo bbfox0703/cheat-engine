@@ -4,7 +4,7 @@ msgstr "插入 MonoDatacollector dll 失敗"
 
 #: monoscript-DYWTL
 msgid "Do you wish to let the mono extention figure out the name and start address? If it's not a proper object this may crash the target."
-msgstr "您要讓 Mono 擴充功能自行尋找名稱並啟動位址嗎？如果物件不正確，可能會導致目標程序異常中止。"
+msgstr "您要讓 Mono 擴充功能自行尋找「名稱」及「啟動位址」嗎？如果物件本身不正確，可能會導致目標程序異常中止。"
 
 #: monoscript-IO
 msgid "Instances of "
