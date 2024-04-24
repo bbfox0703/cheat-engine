@@ -1,17 +1,3 @@
-msgid ""
-msgstr ""
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"Project-Id-Version: \n"
-"POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
-"Language: zh_TW\n"
-"X-Generator: Poedit 3.0\n"
-
 #: lclstrconsts.hhshelpbrowsernotexecutable
 msgid "Browser %s%s%s not executable."
 msgstr "瀏覽器 %s%s%s 並非可執行檔"
@@ -30,15 +16,15 @@ msgstr "找不到可用的HTML瀏覽器"
 
 #: lclstrconsts.hhshelpnohtmlbrowserfoundpleasedefineoneinhelpconfigurehe
 msgid "No HTML Browser found.%sPlease define one in Environment -> Options -> Help -> Help Options"
-msgstr ""
+msgstr "找不到 HTML 瀏覽器。%s請在 環境 -> 選項 -> 說明 -> 說明選項 中設定。"
 
 #: lclstrconsts.hhshelpthehelpdatabasewasunabletofindfile
 msgid "The help database %s%s%s was unable to find file %s%s%s."
-msgstr ""
+msgstr "無法找到說明資料庫 %s%s%s 中的檔案 %s%s%s。"
 
 #: lclstrconsts.hhshelpthemacrosinbrowserparamswillbereplacedbytheurl
 msgid "The macro %s in BrowserParams will be replaced by the URL."
-msgstr ""
+msgstr "在 BrowserParams 中的巨集 %s 將被 URL 取代。"
 
 #: lclstrconsts.ifsalt
 msgid "Alt"
@@ -158,7 +144,7 @@ msgstr ""
 
 #: lclstrconsts.ifsvk_modechange
 msgid "Mode Change"
-msgstr ""
+msgstr "模式變更"
 
 #: lclstrconsts.ifsvk_next
 msgctxt "lclstrconsts.ifsvk_next"
@@ -243,7 +229,7 @@ msgstr ""
 
 #: lclstrconsts.liscannotexecute
 msgid "can not execute %s"
-msgstr ""
+msgstr "無法執行%s"
 
 #: lclstrconsts.lislclresourcesnotfound
 msgctxt "lclstrconsts.lislclresourcesnotfound"
@@ -264,7 +250,7 @@ msgstr ""
 
 #: lclstrconsts.rsacontrolcannothaveitselfasparent
 msgid "A control can't have itself as a parent"
-msgstr ""
+msgstr "一個控制項不能將自己設為父項"
 
 #: lclstrconsts.rsactivebordercolorcaption
 msgid "Active Border"
@@ -337,11 +323,11 @@ msgstr "取消"
 
 #: lclstrconsts.rscannotfocus
 msgid "Can not focus"
-msgstr ""
+msgstr "無法聚焦"
 
 #: lclstrconsts.rscanvasdoesnotallowdrawing
 msgid "Canvas does not allow drawing"
-msgstr ""
+msgstr "視窗畫布不允許繪製"
 
 #: lclstrconsts.rscaptiontextcolorcaption
 msgid "Caption Text"
@@ -353,11 +339,11 @@ msgstr ""
 
 #: lclstrconsts.rscontrolclasscantcontainchildclass
 msgid "Control of class '%s' can't have control of class '%s' as a child"
-msgstr ""
+msgstr "%s類別的控制項、不能將%s類別的控制項作為子項"
 
 #: lclstrconsts.rscontrolhasnoparentwindow
 msgid "Control '%s' has no parent window"
-msgstr ""
+msgstr "控制項「%s」沒有父視窗"
 
 #: lclstrconsts.rscreamcolorcaption
 msgid "Cream"
@@ -365,7 +351,7 @@ msgstr ""
 
 #: lclstrconsts.rscreatinggdbcatchableerror
 msgid "Creating gdb catchable error:"
-msgstr ""
+msgstr "建立 gdb 可捕獲的錯誤："
 
 #: lclstrconsts.rscursor
 msgid "Cursor"
@@ -381,11 +367,11 @@ msgstr ""
 
 #: lclstrconsts.rsdefaultfileinfovalue
 msgid "permissions user group size date time"
-msgstr ""
+msgstr "權限 使用者 群組 大小 日期 時間"
 
 #: lclstrconsts.rsdeleterecord
 msgid "Delete record?"
-msgstr ""
+msgstr "刪除記錄?"
 
 #: lclstrconsts.rsdeleterecordhint
 msgctxt "lclstrconsts.rsdeleterecordhint"
@@ -406,7 +392,7 @@ msgstr ""
 
 #: lclstrconsts.rsduplicateiconformat
 msgid "Duplicate icon format."
-msgstr ""
+msgstr "重複的圖示格式。"
 
 #: lclstrconsts.rseditrecordhint
 msgid "Edit"
@@ -414,7 +400,7 @@ msgstr "編輯"
 
 #: lclstrconsts.rsentirescope
 msgid "Search entire file"
-msgstr ""
+msgstr "搜尋整個檔案"
 
 #: lclstrconsts.rserror
 msgctxt "lclstrconsts.rserror"
@@ -423,7 +409,7 @@ msgstr "錯誤"
 
 #: lclstrconsts.rserrorcreatingdevicecontext
 msgid "Error creating device context for %s.%s"
-msgstr ""
+msgstr "為%s.%s建立DC (device context) 時出錯。"
 
 #: lclstrconsts.rserrorinlcl
 msgid "ERROR in LCL: "
@@ -431,15 +417,15 @@ msgstr ""
 
 #: lclstrconsts.rserroroccurredinataddressframe
 msgid "Error occurred in %s at %sAddress %s%s Frame %s"
-msgstr ""
+msgstr "於 %s 發生錯誤：位於 %s位址 %s%s 框架 %s" 
 
 #: lclstrconsts.rserrorreadingproperty
 msgid "Error reading %s%s%s: %s"
-msgstr ""
+msgstr "讀取 %s%s%s 時錯誤：%s"
 
 #: lclstrconsts.rserrorwhilesavingbitmap
 msgid "Error while saving bitmap."
-msgstr ""
+msgstr "儲存點陣圖時發生錯誤。"
 
 #: lclstrconsts.rsexception
 msgid "Exception"
@@ -447,19 +433,19 @@ msgstr "例外"
 
 #: lclstrconsts.rsfddirectorymustexist
 msgid "Directory must exist"
-msgstr ""
+msgstr "資料夾必需存在"
 
 #: lclstrconsts.rsfddirectorynotexist
 msgid "The directory \"%s\" does not exist."
-msgstr ""
+msgstr "資料夾「%s」不存在"
 
 #: lclstrconsts.rsfdfilealreadyexists
 msgid "The file \"%s\" already exists. Overwrite ?"
-msgstr ""
+msgstr "檔案「%s」已經存在。要覆寫嗎？"
 
 #: lclstrconsts.rsfdfilemustexist
 msgid "File must exist"
-msgstr ""
+msgstr "檔案必須存在"
 
 #: lclstrconsts.rsfdfilenotexist
 msgid "The file \"%s\" does not exist."
@@ -475,19 +461,19 @@ msgstr "檔案無法寫入"
 
 #: lclstrconsts.rsfdfilesaveas
 msgid "Save file as"
-msgstr ""
+msgstr "另存新檔為"
 
 #: lclstrconsts.rsfdopenfile
 msgid "Open existing file"
-msgstr ""
+msgstr "開啟舊檔"
 
 #: lclstrconsts.rsfdoverwritefile
 msgid "Overwrite file ?"
-msgstr ""
+msgstr "覆寫檔案?"
 
 #: lclstrconsts.rsfdpathmustexist
 msgid "Path must exist"
-msgstr ""
+msgstr "路徑必需存在"
 
 #: lclstrconsts.rsfdpathnoexist
 msgid "The path \"%s\" does not exist."
@@ -495,7 +481,7 @@ msgstr "路徑 \"%s\" 不存在。"
 
 #: lclstrconsts.rsfdselectdirectory
 msgid "Select Directory"
-msgstr ""
+msgstr "選擇路徑"
 
 #: lclstrconsts.rsfileinfofilenotfound
 msgid "(file not found: \"%s\")"
@@ -519,11 +505,11 @@ msgstr ""
 
 #: lclstrconsts.rsfixedcolstoobig
 msgid "FixedCols can't be >= ColCount"
-msgstr ""
+msgstr "FixedCols 不得 >= ColCount"
 
 #: lclstrconsts.rsfixedrowstoobig
 msgid "FixedRows can't be >= RowCount"
-msgstr ""
+msgstr "FixedRows 不得 >= RowCount"
 
 #: lclstrconsts.rsformcolorcaption
 msgid "Form"
@@ -531,7 +517,7 @@ msgstr ""
 
 #: lclstrconsts.rsformstreamingerror
 msgid "Form streaming \"%s\" error: %s"
-msgstr ""
+msgstr "表單串流(streaming)「%s」錯誤：%s"
 
 #: lclstrconsts.rsforward
 msgid "Forward"
@@ -543,11 +529,11 @@ msgstr ""
 
 #: lclstrconsts.rsgdkoptiondebug
 msgid "--gdk-debug flags     Turn on specific GDK trace/debug messages."
-msgstr ""
+msgstr "--gdk-debug flags     打開特定的 GDK 追蹤/除錯訊息。"
 
 #: lclstrconsts.rsgdkoptionnodebug
 msgid "--gdk-no-debug flags  Turn off specific GDK trace/debug messages."
-msgstr ""
+msgstr "--gdk-no-debug flags  關閉特定的 GDK 追蹤/除錯訊息。"
 
 #: lclstrconsts.rsgif
 msgid "Graphics Interchange Format"
@@ -555,15 +541,15 @@ msgstr ""
 
 #: lclstrconsts.rsgoptionfatalwarnings
 msgid "--g-fatal-warnings    Warnings and errors generated by Gtk+/GDK will halt the application."
-msgstr ""
+msgstr "--g-fatal-warnings    由Gtk+/GDK產生的警告和錯誤會導致應用程式停止執行。"
 
 #: lclstrconsts.rsgradientactivecaptioncolorcaption
 msgid "Gradient Active Caption"
-msgstr ""
+msgstr "漸層活動標題"
 
 #: lclstrconsts.rsgradientinactivecaptioncolorcaption
 msgid "Gradient Inactive Caption"
-msgstr ""
+msgstr "漸層非活動標題"
 
 #: lclstrconsts.rsgraphic
 msgid "Graphic"
@@ -583,15 +569,15 @@ msgstr "綠色"
 
 #: lclstrconsts.rsgridfiledoesnotexists
 msgid "Grid file doesn't exists"
-msgstr ""
+msgstr "網格(grid)文件不存在"
 
 #: lclstrconsts.rsgridindexoutofrange
 msgid "Grid index out of range."
-msgstr ""
+msgstr "網格(grid)索引超出範圍"
 
 #: lclstrconsts.rsgroupindexcannotbelessthanprevious
 msgid "GroupIndex cannot be less than a previous menu item's GroupIndex"
-msgstr ""
+msgstr "GroupIndex 不能小於前選單項目的 GroupIndex。"
 
 #: lclstrconsts.rsgtkfilter
 msgid "Filter:"
@@ -639,79 +625,79 @@ msgstr ""
 
 #: lclstrconsts.rshelpalreadyregistered
 msgid "%s: Already registered"
-msgstr ""
+msgstr "%s：已經註冊"
 
 #: lclstrconsts.rshelpcontextnotfound
 msgid "Help Context not found"
-msgstr ""
+msgstr "找不到求助內容文件"
 
 #: lclstrconsts.rshelpdatabasenotfound
 msgid "Help Database not found"
-msgstr ""
+msgstr "找不到求助資料庫"
 
 #: lclstrconsts.rshelperror
 msgid "Help Error"
-msgstr ""
+msgstr "求助錯誤"
 
 #: lclstrconsts.rshelphelpcontextnotfound
 msgid "Help context %s not found."
-msgstr ""
+msgstr "求助內容 %s 無法被找到"
 
 #: lclstrconsts.rshelphelpcontextnotfoundindatabase
 msgid "Help context %s not found in Database %s%s%s."
-msgstr ""
+msgstr "找不到求助內容 %s、位於資料庫 %s%s%s "
 
 #: lclstrconsts.rshelphelpdatabasedidnotfoundaviewerforahelppageoftype
 msgid "Help Database %s%s%s did not found a viewer for a help page of type %s"
-msgstr ""
+msgstr "求助資料庫%s%s%s、找不到一個適合的檢視器來顯示求助頁的%s種類"
 
 #: lclstrconsts.rshelphelpdatabasenotfound
 msgid "Help Database %s%s%s not found"
-msgstr ""
+msgstr "找不到求助資料庫%s%s%s"
 
 #: lclstrconsts.rshelphelpkeywordnotfound
 msgid "Help keyword %s%s%s not found."
-msgstr ""
+msgstr "找不到求助關鍵字%s%s%s"
 
 #: lclstrconsts.rshelphelpkeywordnotfoundindatabase
 msgid "Help keyword %s%s%s not found in Database %s%s%s."
-msgstr ""
+msgstr "找不到求助關鍵字%s%s%s、位於資料庫%s%s%s"
 
 #: lclstrconsts.rshelphelpnodehasnohelpdatabase
 msgid "Help node %s%s%s has no Help Database"
-msgstr ""
+msgstr "求助結點%s%s%s中並沒有資料庫"
 
 #: lclstrconsts.rshelpnohelpfoundforsource
 msgid "No help found for line %d, column %d of %s."
-msgstr ""
+msgstr "於%d行、%d列中，找不到%s求助資料"
 
 #: lclstrconsts.rshelpnohelpnodesavailable
 msgid "No help nodes available"
-msgstr ""
+msgstr "沒有可用的求助結點"
 
 #: lclstrconsts.rshelpnotfound
 msgid "Help not found"
-msgstr ""
+msgstr "找不到求助"
 
 #: lclstrconsts.rshelpnotregistered
 msgid "%s: Not registered"
-msgstr ""
+msgstr "%s：未註冊"
 
 #: lclstrconsts.rshelpselectorerror
 msgid "Help Selector Error"
-msgstr ""
+msgstr "求助選擇器錯誤"
 
 #: lclstrconsts.rshelpthereisnoviewerforhelptype
 msgid "There is no viewer for help type %s%s%s"
-msgstr ""
+msgstr "並沒有合適的檢視器可用來處理求助種類%s%s%s"
 
 #: lclstrconsts.rshelpviewererror
 msgid "Help Viewer Error"
-msgstr ""
+msgstr "求助檢視器錯誤"
 
 #: lclstrconsts.rshelpviewernotfound
 msgid "Help Viewer not found"
-msgstr ""
+msgstr "找不到求助檢視器"
 
 #: lclstrconsts.rshighlightcolorcaption
 msgid "Highlight"
@@ -735,27 +721,27 @@ msgstr "圖示"
 
 #: lclstrconsts.rsiconimageempty
 msgid "Icon image cannot be empty"
-msgstr ""
+msgstr "小圖示不可為空值"
 
 #: lclstrconsts.rsiconimageformat
 msgid "Icon image must have the same format"
-msgstr ""
+msgstr "小圖示必需為相同格式"
 
 #: lclstrconsts.rsiconimageformatchange
 msgid "Cannot change format of icon image"
-msgstr ""
+msgstr "無法改變小圖示的圖片格式"
 
 #: lclstrconsts.rsiconimagesize
 msgid "Icon image must have the same size"
-msgstr ""
+msgstr "小圖示的尺寸必需一致"
 
 #: lclstrconsts.rsiconimagesizechange
 msgid "Cannot change size of icon image"
-msgstr ""
+msgstr "無法改變小圖示的尺寸"
 
 #: lclstrconsts.rsiconnocurrent
 msgid "Icon has no current image"
-msgstr ""
+msgstr "小圖示沒有影像"
 
 #: lclstrconsts.rsinactivebordercolorcaption
 msgid "Inactive Border"
@@ -974,7 +960,7 @@ msgstr ""
 
 #: lclstrconsts.rsnowidgetset
 msgid "No widgetset object. Please check if the unit \"interfaces\" was added to the programs uses clause."
-msgstr ""
+msgstr "沒有小部件集 (widgetset) 對象。請檢查程式的使用子句中是否添加了“interfaces”單元。"
 
 #: lclstrconsts.rsolivecolorcaption
 msgid "Olive"
@@ -1111,19 +1097,19 @@ msgstr ""
 
 #: lclstrconsts.rsqtoptionx11visual
 msgid "-visual TrueColor, forces the application to use a TrueColor visual on an 8-bit display."
-msgstr ""
+msgstr "-visual TrueColor：強制應用程式在8位元顯示器上使用TrueColor視覺效果。"
 
 #: lclstrconsts.rsrasterimageendupdate
 msgid "Endupdate while no update in progress"
-msgstr ""
+msgstr "無更新進行時、執行Endupdate"
 
 #: lclstrconsts.rsrasterimagesaveinupdate
 msgid "Cannot save image while update in progress"
-msgstr ""
+msgstr "更新的過程中無法儲存圖片"
 
 #: lclstrconsts.rsrasterimageupdateall
 msgid "Cannot begin update all when canvas only update in progress"
-msgstr ""
+msgstr "當視畫面更新進行中時，無法開始進行全部更新"
 
 #: lclstrconsts.rsredcolorcaption
 msgid "Red"
@@ -1212,23 +1198,23 @@ msgstr "未知的剪貼簿格式"
 
 #: lclstrconsts.rswarningunreleaseddcsdump
 msgid " WARNING: There are %d unreleased DCs, a detailed dump follows:"
-msgstr ""
+msgstr " 警告：有 %d 個未釋放的 DCs，以下是詳細的傾印資訊："
 
 #: lclstrconsts.rswarningunreleasedgdiobjectsdump
 msgid " WARNING: There are %d unreleased GDIObjects, a detailed dump follows:"
-msgstr ""
+msgstr " 警告：有 %d 個未釋放的 GDI 物件，以下是詳細的傾印資訊："
 
 #: lclstrconsts.rswarningunreleasedmessagesinqueue
 msgid " WARNING: There are %d messages left in the queue! I'll free them"
-msgstr ""
+msgstr " 警告：佇列中還有 %d 條訊息！我將會釋放它們。"
 
 #: lclstrconsts.rswarningunreleasedtimerinfos
 msgid " WARNING: There are %d TimerInfo structures left, I'll free them"
-msgstr ""
+msgstr " 警告：還有 %d 個 TimerInfo 結構，我將會釋放它們。"
 
 #: lclstrconsts.rswarningunremovedpaintmessages
 msgid " WARNING: There are %s unremoved LM_PAINT/LM_GtkPAINT message links left."
-msgstr ""
+msgstr " 警告：還有 %s 個未移除的 LM_PAINT/LM_GtkPAINT 訊息連結。"
 
 #: lclstrconsts.rswhitecolorcaption
 msgid "White"
@@ -1236,7 +1222,7 @@ msgstr "白色"
 
 #: lclstrconsts.rswholewordsonly
 msgid "Whole words only"
-msgstr ""
+msgstr "只針對整個單字"
 
 #: lclstrconsts.rswin32error
 msgid "Error:"
@@ -1264,7 +1250,7 @@ msgstr "黃色"
 
 #: lclstrconsts.scannotfocus
 msgid "Cannot focus a disabled or invisible window"
-msgstr ""
+msgstr "無法將焦點放在已停用或不可見的視窗上"
 
 #: lclstrconsts.sduplicatemenus
 msgid "Duplicate menus"
@@ -1272,23 +1258,23 @@ msgstr "重複的選單"
 
 #: lclstrconsts.sinvalidactioncreation
 msgid "Invalid action creation"
-msgstr ""
+msgstr "無效的「動作」建立"
 
 #: lclstrconsts.sinvalidactionenumeration
 msgid "Invalid action enumeration"
-msgstr ""
+msgstr "無效的「動作」列舉"
 
 #: lclstrconsts.sinvalidactionregistration
 msgid "Invalid action registration"
-msgstr ""
+msgstr "無效的「動作」註冊"
 
 #: lclstrconsts.sinvalidactionunregistration
 msgid "Invalid action unregistration"
-msgstr ""
+msgstr "無效的「動作」解除註冊"
 
 #: lclstrconsts.sinvalidcharset
 msgid "The char set in mask \"%s\" is not valid!"
-msgstr ""
+msgstr "遮罩中的字元集「%s」無效！"
 
 #: lclstrconsts.sinvalidimagesize
 msgid "Invalid image size"
@@ -1484,7 +1470,7 @@ msgid ""
 "The selected item does not exist on disk:\n"
 "\"%s\"\n"
 msgstr ""
-"選則的項目並不存在於磁碟機中：\n"
+"選擇的項目並不存在於磁碟機中：\n"
 "\"%s\"\n"
 
 #: lclstrconsts.sshellctrlssize
