@@ -245,15 +245,15 @@ msgstr "伺服器的回應無效："
 
 #: SDNR
 msgid "Server did not respond"
-msgstr "伺服器未響應"
+msgstr "伺服器未回應"
 
 #: ceshare_account-f.Caption
 msgid "CEShare Login"
-msgstr "CEShare登錄"
+msgstr "CEShare登入"
 
 #: ceshare_account-lblUsername.Caption
 msgid "Username"
-msgstr "用戶名稱"
+msgstr "使用者名稱"
 
 #: ceshare_account-lblPassword.Caption
 msgid "Password"
